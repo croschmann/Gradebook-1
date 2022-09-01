@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\cat\Desktop\project 1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(43,5): error C3861: 'getGrades': identifier not found
+C:\Users\cat\Desktop\project 1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,28): error C2440: 'initializing': cannot convert from 'int [3]' to 'double'
+C:\Users\cat\Desktop\project 1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,22): message : There is no context in which this conversion is possible
+C:\Users\cat\Desktop\project 1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(55,10): error C2182: 'displayData': illegal use of type 'void'
+C:\Users\cat\Desktop\project 1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(55,68): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\cat\Desktop\project 1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(55,21): message : The initializer contains too many elements
+C:\Users\cat\Desktop\project 1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(107,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\cat\Desktop\project 1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(113,1): error C2447: '{': missing function header (old-style formal list?)
